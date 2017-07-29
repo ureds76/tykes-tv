@@ -1,0 +1,13 @@
+v1.0.3
+Fixed youtube channel problem.
+created new account, transfered all vids and playlists
+
+v1.0.2
+Added Season Review Seaction
+adjusted Category Order
+
+v1.0.1
+Added Full Matches Section
+
+v1.0.0
+Initial Release
